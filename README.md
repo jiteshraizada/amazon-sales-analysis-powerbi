@@ -24,7 +24,7 @@ Power BI • Excel • Data Visualization • Data Analysis
 
 ### 1. Sales Performance
 
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](Amazon_Sales_Analysis_Dashboard.png)
 
 Visualizations:
 
@@ -37,7 +37,7 @@ Visualizations:
 
 ### 2. Product Analysis
 
-![Products Dashboard](products_dashboard.png)
+![Products Dashboard](Amazon_Products_Dashboard.png)
 
 Visualizations:
 
@@ -49,7 +49,7 @@ Visualizations:
 
 ### 3. Customer Demographics
 
-![Demographics Dashboard](demographics_dashboard.png)
+![Demographics Dashboard](Amazon_Demographics_Dashboard.png)
 
 Visualizations:
 
@@ -60,7 +60,7 @@ Visualizations:
 
 ### 4. Customer Retention
 
-![Customer Dashboard](customer_analysis_dashboard.png)
+![Customer Dashboard](Amazon_Customer_Analysis_Dashboard.png)
 
 Visualizations:
 
