@@ -1,4 +1,4 @@
-# Amazon Sales Dashboard (Power BI)
+# Amazon Sales & Customer Analytics Dashboard (Power BI)
 
 ## Overview
 
